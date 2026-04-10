@@ -7,27 +7,23 @@ Este projeto foi desenvolvido como parte do **Desafio Final de Data Analytics** 
 
 
 ## 📁 Estrutura do Projeto
-insightflow-desafio-final/
-│
-├── data/
-│ ├── ecom_data_raw.csv # Dados brutos
-│ └── ecom_data_clean.csv # Dados tratados
-│
-├── notebooks/
-│ ├── 01_geracao_e_etl.ipynb # Sprint 1
-│ ├── 02_analise_exploratoria.ipynb # Sprint 2
-│ └── 03_modelo_preditivo.ipynb # Sprint 4
-│
-├── dashboard/
-│ ├── dashboard_insightflow.pbix # Dashboard Power BI
-│ ├── previsoes_vendas.png # Gráfico de previsões
-│ └── sazonalidade_mensal.png # Gráfico de sazonalidade
-│
-├── database/
-│ └── ecom.db # Banco SQLite
-│
-├── requirements.txt # Dependências Python
-└── README.md # Documentação
+
+**insightflow-desafio-final/**
+- **data/**
+  - `ecom_data_raw.csv` - Dados brutos
+  - `ecom_data_clean.csv` - Dados tratados
+- **notebooks/**
+  - `01_geracao_e_etl.ipynb` - Sprint 1: Geração e limpeza dos dados
+  - `02_analise_exploratoria.ipynb` - Sprint 2: Análise exploratória e RFM
+  - `03_modelo_preditivo.ipynb` - Sprint 4: Modelo de previsão de vendas
+- **dashboard/**
+  - `dashboard_insightflow.pbix` - Dashboard Power BI
+  - `previsoes_vendas.png` - Gráfico de previsões do modelo
+  - `sazonalidade_mensal.png` - Gráfico de sazonalidade por mês
+- **database/**
+  - `ecom.db` - Banco de dados SQLite
+- `requirements.txt` - Dependências do Python
+- `README.md` - Documentação completa do projeto
 
 ### 🎯 Objetivos Alcançados
 
