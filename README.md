@@ -199,7 +199,7 @@ Com 5.390 transações para apenas 300 clientes, há uma média de aproximadamen
 Como Eletrônicos dominam as vendas, existe uma oportunidade clara de utilizar esses produtos como **porta de entrada para vendas cruzadas** com outras categorias, aumentando o valor total por cliente.
 
 
-
+---------------------------------------------------------------
 
 ## 🛠️ Tecnologias Utilizadas
 
